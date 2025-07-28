@@ -1,0 +1,225 @@
+*{
+    padding: 0px;
+    margin: 0px;
+}
+
+.headpart{
+    display: flex;
+    justify-content: space-between;
+    margin: 10px;
+}
+
+.headpart ul{
+    display: flex;
+    justify-content: space-between;
+    
+}
+
+.headpart ul li{
+    list-style-type: none;
+    padding-left: 10px;
+   
+}
+
+
+.front{
+    text-align: center;
+    height: 100px;
+    padding: 100px;
+    border-bottom: 2px solid black;
+}
+
+
+.columns{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.columns div{
+   height: 300px;
+   width: 50%;
+   border: 1px solid;
+}
+
+.sec3 li{
+    list-style-type: none;
+}
+
+.sec1{
+    padding: 10px;
+    text-align: center;
+    line-height: 35px;
+}
+
+.sec1 p{
+    border-bottom: 2px solid black; 
+}
+
+.sec2 ,.sec3{
+    padding: 10px;
+}
+
+
+.sec2 .s1{
+    padding: 5px;
+    padding-top: 10px;
+    border-bottom: 2px solid black;
+    line-height: 25px;
+}
+
+.sec2 .s2{
+    padding: 5px;
+    padding-top: 10px;
+    line-height: 25px;
+}
+
+.sec2 .s2{
+    padding: 5px;
+}
+
+span{
+    color: blue;
+}
+
+.sec3 .s1 p{
+    padding: 5px 0px;
+}
+
+.sec3 .s2{
+    padding: 2px;
+}
+
+.sec3 .s2 p{
+    padding: 5px 0px
+}
+
+
+.div4{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 20px;
+}
+
+.div4 div{
+    border: 3px solid black;
+    padding: 25px;
+    width: 200px;
+    margin: 30px;
+    border-radius: 30px;
+}
+
+.div4 div p{
+   line-height: 20px;
+}
+
+h3{
+    margin-left: 30px;
+    margin-top: 20px;
+}
+
+.foot{
+    text-align: center;
+}
+
+
+.anotherdiv{
+    border: 2px solid black;
+    line-height: 30px;
+    width: 40%;
+    margin-left: 10px;
+}
+
+.anotherdiv .heading{
+    margin-top: 20px;
+   text-align: center;
+}
+
+.anotherdiv .heading ul{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.anotherdiv .heading ul li{
+    list-style-type: none;
+}
+
+.anotherdiv .headp{
+    text-align: center;
+    padding: 20px 0px;
+    line-height: 27px;
+}
+
+.anotherdiv .projects{
+    text-align: center;
+    border-top: 2px solid black;
+}
+
+.anotherdiv .projects p{
+    border-top: 2px solid black;
+}
+
+.anotherdiv .exp h4{
+    text-align: center;
+    border-top: 2px solid black;
+}
+
+.anotherdiv .exp {
+    border-bottom: 2px solid black;
+}
+
+.exp section{
+    border-top: 2px solid black;
+    padding-left: 5px;
+     
+}
+
+.edu{
+    padding-left: 5px;
+    line-height: 20px;
+    border-bottom: 2px solid black;
+}
+
+.edu p{
+    padding-top: 5px;
+
+}
+.edu h4{
+    text-align: center;
+}
+
+.edu li{
+    list-style-type: none;
+    padding-left: 6px;
+    padding-bottom: 2px;
+}
+
+.lastdiv{
+    text-align: center;
+}
+.lastdiv h3{
+    margin: 2px;
+}
+
+.teach{
+    text-align: center;
+    border: 2px solid black;
+    width:45%;
+    line-height: 25px;
+    margin-left: 120px;
+    padding: 5px;
+    border-radius: 10px;
+}
+
+.wholedivs{
+    display: flex;
+    gap: 15px;
+    justify-content: space-evenly;
+}
+
+.firstdiv{
+    border: 2px solid black;
+    
+}
