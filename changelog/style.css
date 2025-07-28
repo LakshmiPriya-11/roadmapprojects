@@ -1,0 +1,36 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+.changelog{
+    width: 500px;
+    margin: auto;
+    margin-top: 2rem;
+    border: 1px solid #555;
+    text-align: center;
+}
+
+.changelog_info{
+    text-align: center;
+    margin: 1rem;
+}
+
+.changelog_details{
+    border: 1px solid red;
+    padding: 1rem;
+}
+
+.wholeul{
+    list-style-type: none;
+    display: grid;
+    grid-template-columns: 100px 20px 1fr;
+}
+
+.list_icon{
+    background-color: #555;
+    height: auto;
+    width: 20px;
+    border-radius: 50%;
+}
