@@ -1,4 +1,4 @@
-<img width="1909" height="962" alt="Screenshot 2025-09-15 124549" src="https://github.com/user-attachments/assets/7b671916-5604-4bc1-984d-e8fa7c3898cf" /># RoadMap Projects
+# RoadMap Projects
 
 
 <a href="https://github.com/LakshmiPriya-11/roadmapprojects/tree/main/basichtml">
