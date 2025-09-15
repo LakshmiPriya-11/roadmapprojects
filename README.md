@@ -6,6 +6,6 @@
 </a>
 
 
-<a href="https://github.com/LakshmiPriya-11/roadmapprojects/tree/main/basicportfolio">
+<a href="https://lakshmipriya-11.github.io/basicportfolio/">
 <img width="1909" height="962" alt="Screenshot 2025-09-15 124549" src="https://github.com/user-attachments/assets/90c966c7-53d7-42cb-bcce-1f4429bd407c" />
 </a>
