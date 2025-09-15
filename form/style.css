@@ -1,0 +1,103 @@
+*{
+    padding: 0px;
+    margin: 0px;
+    box-sizing: border-box;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+
+.full{
+    display: flex;
+    gap: 50px;
+    padding-top: 100px;
+}
+.pass input{
+    position: absolute;
+}
+.pass i{
+    margin-top: 6px;
+    margin-left: 140px;
+    position: absolute;
+}
+
+form{
+    margin-left: 200px;
+    padding: 10px;
+}
+
+
+form div{
+    padding-bottom: 30px;
+}
+
+form input{
+    margin-bottom: 20px;
+}
+form input{
+    padding: 7px;
+    border-radius: 5px;
+}
+
+form button{
+    padding: 5px;
+    background-color: black;
+    color: white;
+    border-radius: 5px;
+    width: 180px;
+}
+
+div .round{
+    border: 1px solid black;
+    border-radius: 100%;
+    width: 100px;
+    height: 100px;
+    text-align: center;
+    padding-top: 35px;
+    padding-left: 6px;
+    border-right:80px ;
+}
+
+.sec{
+    margin-top: 20px;
+    margin-left: 20px;
+    text-align: center;
+}
+
+.card{
+    background-color: rgb(226, 221, 221);
+    margin-top: 40px;
+    border-radius: 10px;
+}
+
+.card p{
+   padding: 5px;
+    text-align: center;
+    color: black;
+}
+
+.st{
+    text-decoration: line-through;
+}
+
+.p{
+    padding-right: 30px;
+}
+
+  
+  #red-txt {
+    border: 2px solid #ff0000; /* red border */
+    color: #ff0000;            /* red text */
+    padding: 8px;
+    border-radius: 5px;
+  }
+
+  #red-txt::placeholder{
+    color: red;
+  }
+
+  /* Style the error message */
+  #red {
+    color: #ff0000;
+    font-size: 14px;
+    margin-top: 4px;
+  }
