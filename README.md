@@ -1,11 +1,6 @@
 # RoadMap Projects
 
+This repository contains a series of frontend projects I'm building while following the [roadmap.sh](https://roadmap.sh/frontend) to strengthen my frontend development skills.
 
-<a href="https://github.com/LakshmiPriya-11/roadmapprojects/tree/main/basichtml">
-<img width="314" height="410" alt="Screenshot 2025-07-28 204830" src="https://github.com/user-attachments/assets/f7ea4e21-417b-4ce2-a0af-505e78b24515" />
-</a>
+Each project focuses on a specific concept or technology in the frontend roadmap — starting from the basics of HTML/CSS to JavaScript, APIs, frameworks, and more.
 
-
-<a href="https://lakshmipriya-11.github.io/basicportfolio/">
-<img width="1909" height="962" alt="Screenshot 2025-09-15 124549" src="https://github.com/user-attachments/assets/90c966c7-53d7-42cb-bcce-1f4429bd407c" />
-</a>
